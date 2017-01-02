@@ -1,0 +1,1 @@
+This is my final project for my degree. It's an Android game that uses the Google VR SDK for Unity.
