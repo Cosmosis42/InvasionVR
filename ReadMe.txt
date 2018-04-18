@@ -10,3 +10,6 @@ How to play:
  - If your screen becomes off-centre, your phone may need recalibrating. However, there is a floor menu button that will recentre your screen for you.
 
 The longer you last, the larger the waves will be, and the faster the alien ships will move/shoot. Remember, you can only get hit 3 times! Make sure to blast enemy missiles to prevent them from destroying your ship.
+
+For a quick demo video of the game, look no further:
+https://www.youtube.com/watch?v=tZ0dy8yPmWI
